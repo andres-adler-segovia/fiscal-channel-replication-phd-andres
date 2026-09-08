@@ -459,7 +459,7 @@ Experiment 2 (proxy vintage); post-pandemic extension.
 ## Entry 023 — 2026-08-08 — Supervisor packet: top-level README
 
 - Built `README.md` at project root as the GitHub landing page for sharing with supervisor
-  (Sebastian): overview, headline results with embedded figures (fig1 IRFs, fig2 counterfactuals,
+  (supervisor): overview, headline results with embedded figures (fig1 IRFs, fig2 counterfactuals,
   extension), the methodological contribution (temporal-aggregation fix), the honest boundary +
   author ask, repo structure, reproduce-in-order script list, and a key-documents index.
 - Project now self-navigating for an external reader. Core replication + robustness + extension +
